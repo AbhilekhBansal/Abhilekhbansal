@@ -1,4 +1,4 @@
-<div><img src="https://github.com/AbhilekhBansal/Abhilekhbansal/assets/69953003/f9863236-d2d2-4781-af6e-cb75a9ac00d3" /></div>
+<div><img src="https://github.com/AbhilekhBansal/Abhilekhbansal/assets/69953003/bca5af8d-96ac-41e8-8657-c0cbcec75da6" /></div>
 <h1 align="center">Hi 👋, I'm Abhilekh Bansal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
