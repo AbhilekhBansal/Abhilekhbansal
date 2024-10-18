@@ -1,4 +1,4 @@
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/51032d99-10ec-4583-8248-40bb8a67b340)<h1 align="center">Hi 👋, I'm Abhilekh Bansal</h1>
+<h1 align="center">Hi 👋, I'm Abhilekh Bansal</h1>
 
 <h3 align="center">A passionate fullstack developer from India</h3>
 
